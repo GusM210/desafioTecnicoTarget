@@ -1,0 +1,16 @@
+C:\Users\rcruz\OneDrive\Área de Trabalho\Faculdade\DesafioTecnicoCS\desafio2\bin\Debug\net10.0\desafio2.exe
+C:\Users\rcruz\OneDrive\Área de Trabalho\Faculdade\DesafioTecnicoCS\desafio2\bin\Debug\net10.0\desafio2.deps.json
+C:\Users\rcruz\OneDrive\Área de Trabalho\Faculdade\DesafioTecnicoCS\desafio2\bin\Debug\net10.0\desafio2.runtimeconfig.json
+C:\Users\rcruz\OneDrive\Área de Trabalho\Faculdade\DesafioTecnicoCS\desafio2\bin\Debug\net10.0\desafio2.dll
+C:\Users\rcruz\OneDrive\Área de Trabalho\Faculdade\DesafioTecnicoCS\desafio2\bin\Debug\net10.0\desafio2.pdb
+C:\Users\rcruz\OneDrive\Área de Trabalho\Faculdade\DesafioTecnicoCS\desafio2\obj\Debug\net10.0\desafio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcruz\OneDrive\Área de Trabalho\Faculdade\DesafioTecnicoCS\desafio2\obj\Debug\net10.0\desafio2.AssemblyInfoInputs.cache
+C:\Users\rcruz\OneDrive\Área de Trabalho\Faculdade\DesafioTecnicoCS\desafio2\obj\Debug\net10.0\desafio2.AssemblyInfo.cs
+C:\Users\rcruz\OneDrive\Área de Trabalho\Faculdade\DesafioTecnicoCS\desafio2\obj\Debug\net10.0\desafio2.csproj.CoreCompileInputs.cache
+C:\Users\rcruz\OneDrive\Área de Trabalho\Faculdade\DesafioTecnicoCS\desafio2\obj\Debug\net10.0\desafio2.sourcelink.json
+C:\Users\rcruz\OneDrive\Área de Trabalho\Faculdade\DesafioTecnicoCS\desafio2\obj\Debug\net10.0\desafio2.dll
+C:\Users\rcruz\OneDrive\Área de Trabalho\Faculdade\DesafioTecnicoCS\desafio2\obj\Debug\net10.0\refint\desafio2.dll
+C:\Users\rcruz\OneDrive\Área de Trabalho\Faculdade\DesafioTecnicoCS\desafio2\obj\Debug\net10.0\desafio2.pdb
+C:\Users\rcruz\OneDrive\Área de Trabalho\Faculdade\DesafioTecnicoCS\desafio2\obj\Debug\net10.0\desafio2.genruntimeconfig.cache
+C:\Users\rcruz\OneDrive\Área de Trabalho\Faculdade\DesafioTecnicoCS\desafio2\obj\Debug\net10.0\ref\desafio2.dll
+C:\Users\rcruz\OneDrive\Área de Trabalho\Faculdade\DesafioTecnicoCS\desafio2\bin\Debug\net10.0\estoque.json
